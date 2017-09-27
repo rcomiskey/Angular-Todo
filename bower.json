@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/rcomiskey/day12",
+  "authors": [
+    "Rory Comiskey <rorycomiskey@hotmail.com>"
+  ],
+  "description": "To do list project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
